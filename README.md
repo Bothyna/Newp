@@ -1,5 +1,6 @@
 # New update
 new update 2
+
 DevOps Tools:
 1. Gradle :
 Gradle showed up on the scene in 2009, and its popularity has 
@@ -21,7 +22,8 @@ Jenkins is the go-to DevOps automation tool for many
 software development teams. It’s an open-source CI/CD 
 server that allows you to automate the different stages of your 
 delivery pipeline. The main reason for Jenkins’ popularity is 
-its huge plugin ecosystem.4. Bamboo
+its huge plugin ecosystem.
+4. Bamboo
 Bamboo is Atlassian’s CI/CD server solution that has many 
 similar features to Jenkins. Both are popular DevOps tools 
 that allow you to automate your delivery pipeline, from builds 
@@ -46,7 +48,8 @@ worker nodes. The master node implements your pre-defined
 rules and deploys the containers to the worker nodes. 
 Kubernetes pays attention to everything. For instance, it 
 notices when a worker node is down and redistributes the 
-containers whenever it’s necessary.7. Puppet Enterprise
+containers whenever it’s necessary.
+7. Puppet Enterprise
 Puppet Enterprise is a cross-platform configuration 
 management platform. It allows you to manage your 
 infrastructure as code. As it automates infrastructure 
@@ -67,7 +70,8 @@ infrastructure so that you can find and fix problems. With
 Nagios, you can keep records of events, outages, and failures. 
 You can also keep an eye on trends with the help of Nagios’ 
 graphs and reports. This way, you can forecast outages and 
-errors and detect security threats.10. Raygun
+errors and detect security threats.
+10. Raygun
 Raygun is a world-class error monitoring and crashes 
 reporting platform. Application performance monitoring 
 (APM) is its most recent product. Raygun’s DevOps tool 
